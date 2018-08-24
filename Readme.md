@@ -1,0 +1,1 @@
+Check out `/newsletters` for monthly updates.
