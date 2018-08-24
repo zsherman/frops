@@ -3,8 +3,7 @@
 
 ## Articles
 
-1.  [Why Use GraphQL (Good and Bad Reasons)](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
-  - *tl;dr* REST isn't going anywhere
+1.  [Why Use GraphQL (Good and Bad Reasons)](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons) *tl;dr:* REST isn't going anywhere
 2. 
   
 
