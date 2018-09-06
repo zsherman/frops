@@ -16,6 +16,7 @@
 3. [React Flame Graph](https://github.com/bvaughn/react-flame-graph) — Extremely performant and gorgeous flame graph library for react, used in react's new devtools. Check out the [demo](https://react-flame-graph.now.sh/).
 4. [Jetset](https://github.com/DigitalGlobe/jetset/) – Simplified data fetching for react + redux apps that still depend on a REST API, handles caching, loading states, optimistic updates and much more.
 5. [Smooth UI](https://github.com/smooth-code/smooth-ui) A customizable styled-components and emotion compatible UI library for React.
+6. [React Digraph](https://github.com/uber/react-digraph) Force directed graphs with react, a project from the Uber dataviz team.
   
 
 ## Techniques
